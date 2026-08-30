@@ -8,13 +8,13 @@
     "icon": "./assets/images/icon.png",
     "scheme": "sjofn",
     "userInterfaceStyle": "automatic",
-    "ios": {
-      "icon": "./assets/expo.icon",
-      "bundleIdentifier": "com.gaiindustries.sjofn",
-      "infoPlist": {
-        "ITSAppUsesNonExemptEncryption": false
-      }
-    },
+  "ios": {
+    "icon": "./assets/images/icon.png",
+    "bundleIdentifier": "com.gaiindustries.sjofn",
+    "infoPlist": {
+      "ITSAppUsesNonExemptEncryption": false
+    }
+  },
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
